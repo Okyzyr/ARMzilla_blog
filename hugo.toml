@@ -1,4 +1,7 @@
-baseURL = "https://okyzyr.github.io/ARMzilla_blog/"
-languageCode = "pl-pl"
-title = "ARMzilla"
+baseURL = "https://twojanick.github.io/lifedebugger/"
+title = "Debugging Mode On"
 theme = "PaperMod"
+languageCode = "pl"
+
+[params]
+description = "Blog o moim wolnym czasie, zainteresowaniach i projektach."
