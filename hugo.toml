@@ -1,0 +1,4 @@
+baseURL = "https://okyzyr.github.io/ARMblog/"
+languageCode = "pl-pl"
+title = "ARMzilla"
+theme = "PaperMod"
