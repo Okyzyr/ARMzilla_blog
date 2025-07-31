@@ -2,6 +2,7 @@ baseURL = "https://okyzyr.github.io/FuzzyLogic/"
 title = "Fuzzy Logic"
 theme = "PaperMod"
 languageCode = "pl"
+publishDir = "docs"
 
 [params]
   description = "Blog o moich zainteresowaniach i projektach."
