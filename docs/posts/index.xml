@@ -7,7 +7,7 @@
 &lt;li>&lt;strong>NEMA 17&lt;/strong> dla pozostałych stopni swobody — także w podstawie,&lt;/li>
 &lt;li>chwytaka opartego na serwomechanizmie.&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img alt="Szkic ramienia" loading="lazy" src="https://okyzyr.github.io/FuzzyLogic/images/ramie-szkic.png">&lt;/p></description></item><item><title>ARMzilla - Początek</title><link>https://okyzyr.github.io/FuzzyLogic/posts/start/</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>https://okyzyr.github.io/FuzzyLogic/posts/start/</guid><description>&lt;h1 id="wprowadzenie">Wprowadzenie&lt;/h1>
+&lt;p>&lt;img alt="Szkic ramienia" loading="lazy" src="https://okyzyr.github.io/FuzzyLogic/posts/podstawa/ramie-szkic.png">&lt;/p></description></item><item><title>ARMzilla - Początek</title><link>https://okyzyr.github.io/FuzzyLogic/posts/start/</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>https://okyzyr.github.io/FuzzyLogic/posts/start/</guid><description>&lt;h1 id="wprowadzenie">Wprowadzenie&lt;/h1>
 &lt;p>Projekt ARMzilla to próba samodzielnego zaprojektowania i zbudowania niewielkiego robotycznego ramienia inspirowanego rozwiązaniami przemysłowymi. Jego głównym celem jest praktyczna nauka — od podstaw — zagadnień związanych z kinematyką, elektroniką i programowaniem.&lt;/p>
 &lt;p>Projekt zakłada stopniowe zdobywanie wiedzy i umiejętności w zakresie:&lt;/p>
 &lt;ul>

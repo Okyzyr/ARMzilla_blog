@@ -1,11 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Arm on Fuzzy Logic</title><link>https://okyzyr.github.io/FuzzyLogic/tags/arm/</link><description>Recent content in Arm on Fuzzy Logic</description><generator>Hugo -- 0.148.0</generator><language>pl</language><lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://okyzyr.github.io/FuzzyLogic/tags/arm/index.xml" rel="self" type="application/rss+xml"/><item><title>ARMzilla - Początek</title><link>https://okyzyr.github.io/FuzzyLogic/posts/start/</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>https://okyzyr.github.io/FuzzyLogic/posts/start/</guid><description>&lt;h1 id="wprowadzenie">Wprowadzenie&lt;/h1>
-&lt;p>Projekt ARMzilla to próba samodzielnego zaprojektowania i zbudowania niewielkiego robotycznego ramienia inspirowanego rozwiązaniami przemysłowymi. Jego głównym celem jest praktyczna nauka — od podstaw — zagadnień związanych z kinematyką, elektroniką i programowaniem.&lt;/p>
-&lt;p>Projekt zakłada stopniowe zdobywanie wiedzy i umiejętności w zakresie:&lt;/p>
-&lt;ul>
-&lt;li>obliczania sił i momentów (kinematyka i statyka),&lt;/li>
-&lt;li>doboru i sterowania silnikami krokowymi,&lt;/li>
-&lt;li>nauki korzystania z Autodesk Fusion oraz projektowania mechanicznego,&lt;/li>
-&lt;li>tworzenia elektroniki sterującej,&lt;/li>
-&lt;li>programowania mikrokontrolerów.&lt;/li>
-&lt;/ul>
-&lt;p>Wszystkie elementy projektu mają być w pełni autorskie. Najważniejszym aspektem całego przedsięwzięcia będzie samodzielne rozwiązywanie problemów pojawiających się na kolejnych etapach rozwoju — od pierwszego szkicu, aż po działający prototyp.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arm on Fuzzy Logic</title>
+    <link>http://localhost:1313/FuzzyLogic/tags/arm/</link>
+    <description>Recent content in Arm on Fuzzy Logic</description>
+    <generator>Hugo -- 0.148.0</generator>
+    <language>pl</language>
+    <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/FuzzyLogic/tags/arm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARMzilla - Początek</title>
+      <link>http://localhost:1313/FuzzyLogic/posts/start/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/FuzzyLogic/posts/start/</guid>
+      <description>&lt;h1 id=&#34;wprowadzenie&#34;&gt;Wprowadzenie&lt;/h1&gt;
+&lt;p&gt;Projekt ARMzilla to próba samodzielnego zaprojektowania i zbudowania niewielkiego robotycznego ramienia inspirowanego rozwiązaniami przemysłowymi. Jego głównym celem jest praktyczna nauka — od podstaw — zagadnień związanych z kinematyką, elektroniką i programowaniem.&lt;/p&gt;
+&lt;p&gt;Projekt zakłada stopniowe zdobywanie wiedzy i umiejętności w zakresie:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;obliczania sił i momentów (kinematyka i statyka),&lt;/li&gt;
+&lt;li&gt;doboru i sterowania silnikami krokowymi,&lt;/li&gt;
+&lt;li&gt;nauki korzystania z Autodesk Fusion oraz projektowania mechanicznego,&lt;/li&gt;
+&lt;li&gt;tworzenia elektroniki sterującej,&lt;/li&gt;
+&lt;li&gt;programowania mikrokontrolerów.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Wszystkie elementy projektu mają być w pełni autorskie. Najważniejszym aspektem całego przedsięwzięcia będzie samodzielne rozwiązywanie problemów pojawiających się na kolejnych etapach rozwoju — od pierwszego szkicu, aż po działający prototyp.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -17,7 +17,7 @@ Na papierze naszkicowałem pierwszą wersję całego ramienia. Zasadniczo będzi
 - **NEMA 17** dla pozostałych stopni swobody — także w podstawie,
 - chwytaka opartego na serwomechanizmie.
 
-![Szkic ramienia](/images/ramie-szkic.png)
+![Szkic ramienia](ramie-szkic.png)
 
 ## Podstawa: projekt w Fusion 360
 
@@ -32,22 +32,20 @@ Wewnątrz umieściłem:
 - przekładnię pasową **GT2 20T:60T**  
 - pasek **GT2 6 mm**
 
-![Widok z zewnątrz](/images/podstawa-1.png)  
-![Widok wewnętrzny](/images/podstawa-2.png)
+![Widok z zewnątrz](podstawa-1.png)  
+![Widok wewnętrzny](podstawa-2.png)
 
-Całość będzie oparta na **łożysku tocznym 100 mm**, na które nałożona zostanie górna część ramienia. Dolna pokrywa oraz obudowa zawierają odpowiednie gniazda na śruby, kanały powietrzne oraz mocowanie napędu. Brzmi poważnie, ale spokojnie — to tylko 100 mm czystej inżynierii.
+Całość będzie oparta na **łożysku tocznym 100 mm**, na które nałożona zostanie górna część ramienia. Dolna pokrywa oraz obudowa zawierają odpowiednie gniazda na śruby, kanały powietrzne oraz mocowanie napędu.
 
 ## Problem z napięciem paska
 
-Jednym z pierwszych problemów projektowych okazał się sposób **napięcia paska zębatego**. Standardowy rozstaw kół GT2 20T i 60T nie daje możliwości regulacji, a bez napięcia pasek zsuwa się lub ślizga. A to, jak wiadomo, żadna przyjemność.
-
-Rozważałem kilka wariantów:
-
-![Szkic wariantów napięcia paska](/images/pasek-problem.png)
+Jednym z pierwszych problemów projektowych okazał się sposób **napięcia paska zębatego**. Standardowy rozstaw kół GT2 20T i 60T nie daje możliwości regulacji, a bez napięcia zakładam, że pasek przy dużym obciążeniu może ślizgać się po zębatce zamiast obracać koło. 
 
 Ostatecznie zdecydowałem się na zastosowanie **dwóch wolnoobracających się kół**, które będą dociskać pasek od zewnętrznej strony. Aby zapewnić możliwość ich regulacji, zaprojektowałem **otwory podłużne** w pokrywie, przez które koła będą regulowane i blokowane w odpowiedniej pozycji.
 
-![Otwory w pokrywie](/images/pokrywa-otwory.png)
+![Szkic wariantów napięcia paska](pasek-problem.png)
+
+![Otwory w pokrywie](pokrywa-otwory.png)
 
 To rozwiązanie pozwala na:
 
@@ -55,13 +53,11 @@ To rozwiązanie pozwala na:
 - zachowanie zwartej konstrukcji  
 - uniknięcie przesuwania osi silnika lub głównego koła  
 
-Czyli: spryt, porządek i brak frustracji.
-
 ## Widoki konstrukcji
 
-![Przekrój przezroczysty](/images/podstawa-3.png)  
-![Widok końcowy obudowy](/images/podstawa-4.png)  
-![Napęd GT2 + NEMA 17](/images/podstawa-5.png)
+![Przekrój przezroczysty](podstawa-3.png)  
+![Widok końcowy obudowy](podstawa-4.png)  
+![Napęd GT2 + NEMA 17](5.png)
 
 ## Podsumowanie
 
@@ -69,7 +65,7 @@ Na tym etapie udało się:
 
 - narysować wstępny szkic ramienia i określić orientacyjny rozmiar sekcji  
 - wybrać napęd silnika podstawy  
-- zaprojektować obudowę i mechanizm napędowy w Fusion 360  
+- zaprojektować obudowę i mechanizm napędowy w Autocad Fusion – przy okazji mój pierwszy kontakt z tym programem  
 - rozwiązać problem napięcia paska w niestandardowej konfiguracji  
 
-W następnych krokach chcę przetestować fizyczny wydruk podstawy i rozpocząć projekt kolejnych segmentów. Mam też nadzieję, że kolejne problemy będą równie ciekawe — i przynajmniej trochę mniej paskowe.
+
