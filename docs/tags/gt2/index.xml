@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Gt2 on Fuzzy Logic</title><link>https://okyzyr.github.io/FuzzyLogic/tags/gt2/</link><description>Recent content in Gt2 on Fuzzy Logic</description><generator>Hugo -- 0.148.0</generator><language>pl</language><lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://okyzyr.github.io/FuzzyLogic/tags/gt2/index.xml" rel="self" type="application/rss+xml"/><item><title>Pierwsze szkice i fundament ramienia</title><link>https://okyzyr.github.io/FuzzyLogic/posts/podstawa/</link><pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate><guid>https://okyzyr.github.io/FuzzyLogic/posts/podstawa/</guid><description>&lt;h1 id="pierwsze-szkice-i-fundament-ramienia">Pierwsze szkice i fundament ramienia&lt;/h1>
+&lt;p>W ostatnich dniach zrobiłem pierwsze konkretne postępy przy projekcie &lt;strong>ARMzilla&lt;/strong>. Choć jeszcze bez żadnych obliczeń, postanowiłem ruszyć z miejscem, od którego wszystko się zacznie — &lt;strong>podstawą ramienia&lt;/strong>.&lt;/p>
+&lt;h2 id="wstępna-koncepcja-konstrukcji">Wstępna koncepcja konstrukcji&lt;/h2>
+&lt;p>Na papierze naszkicowałem pierwszą wersję całego ramienia. Zasadniczo będzie się ono składało z czterech osi napędzanych silnikami krokowymi oraz końcówki chwytającej poruszanej serwem. Przewiduję użycie:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>NEMA 23&lt;/strong> jako siłownika ramienia głównego (największe obciążenia),&lt;/li>
+&lt;li>&lt;strong>NEMA 17&lt;/strong> dla pozostałych stopni swobody — także w podstawie,&lt;/li>
+&lt;li>chwytaka opartego na serwomechanizmie.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img alt="Szkic ramienia" loading="lazy" src="https://okyzyr.github.io/FuzzyLogic/images/ramie-szkic.png">&lt;/p></description></item></channel></rss>
