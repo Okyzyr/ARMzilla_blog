@@ -1,7 +1,34 @@
-baseURL = "https://okyzyr.github.io/lifedebugger/"
-title = "Debugging Mode On"
+baseURL = "https://okyzyr.github.io/FuzzyLogic/"
+title = "Fuzzy Logic"
 theme = "PaperMod"
 languageCode = "pl"
 
 [params]
-description = "Blog o moim wolnym czasie, zainteresowaniach i projektach."
+  description = "Blog o moich zainteresowaniach i projektach."
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowToc = true
+  ShowCodeCopyButtons = true
+  ShowTags = true
+
+[taxonomies]
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tagi"
+    url = "/tags/"
+    weight = 10
+  
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 0

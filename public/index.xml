@@ -1,26 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Debugging Mode On</title>
-    <link>http://localhost:1313/lifedebugger/</link>
-    <description>Recent content on Debugging Mode On</description>
-    <generator>Hugo -- 0.148.0</generator>
-    <language>pl</language>
-    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/lifedebugger/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>O mnie</title>
-      <link>http://localhost:1313/lifedebugger/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lifedebugger/about/</guid>
-      <description>&lt;p&gt;Cześć, mam na imię Kuba. To miejsce, gdzie mam nadzieję będę zapisywał swoje postęy w hobbystycznych projektach jakie prowadzę i czego się aktualnie uczę.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Start</title>
-      <link>http://localhost:1313/lifedebugger/posts/start/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lifedebugger/posts/start/</guid>
-      <description>&lt;p&gt;Pierwszy wpis na blogu ARMzilla.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Fuzzy Logic</title><link>https://okyzyr.github.io/FuzzyLogic/</link><description>Recent content on Fuzzy Logic</description><generator>Hugo -- 0.148.0</generator><language>pl</language><lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://okyzyr.github.io/FuzzyLogic/index.xml" rel="self" type="application/rss+xml"/><item><title>O mnie</title><link>https://okyzyr.github.io/FuzzyLogic/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://okyzyr.github.io/FuzzyLogic/about/</guid><description>&lt;p>Cześć, mam na imię Kuba. To miejsce, gdzie jak mam nadzieję, będę zapisywał swoje postępy w hobbystycznych projektach jakie prowadzę i czego się aktualnie uczę.&lt;/p></description></item><item><title>ARMzilla - Początek</title><link>https://okyzyr.github.io/FuzzyLogic/posts/start/</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>https://okyzyr.github.io/FuzzyLogic/posts/start/</guid><description>&lt;h1 id="wprowadzenie">Wprowadzenie&lt;/h1>
+&lt;p>Projekt ARMzilla to próba samodzielnego zaprojektowania i zbudowania niewielkiego robotycznego ramienia inspirowanego rozwiązaniami przemysłowymi. Jego głównym celem jest praktyczna nauka — od podstaw — zagadnień związanych z kinematyką, elektroniką i programowaniem.&lt;/p>
+&lt;p>Projekt zakłada stopniowe zdobywanie wiedzy i umiejętności w zakresie:&lt;/p>
+&lt;ul>
+&lt;li>obliczania sił i momentów (kinematyka i statyka),&lt;/li>
+&lt;li>doboru i sterowania silnikami krokowymi,&lt;/li>
+&lt;li>nauki korzystania z Autodesk Fusion oraz projektowania mechanicznego,&lt;/li>
+&lt;li>tworzenia elektroniki sterującej,&lt;/li>
+&lt;li>programowania mikrokontrolerów.&lt;/li>
+&lt;/ul>
+&lt;p>Wszystkie elementy projektu mają być w pełni autorskie. Najważniejszym aspektem całego przedsięwzięcia będzie samodzielne rozwiązywanie problemów pojawiających się na kolejnych etapach rozwoju — od pierwszego szkicu, aż po działający prototyp.&lt;/p></description></item></channel></rss>
