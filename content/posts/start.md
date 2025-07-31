@@ -21,7 +21,7 @@ Wszystkie elementy projektu mają być w pełni autorskie. Najważniejszym aspek
 
 ## Inspiracje
 
-Inspiracją do rozpoczęcia projektu były przykłady prostych, ale przemyślanych konstrukcji robotycznych, które można znaleźć w sieci. Na początku zbudowałem ramię MeArm 0.4, ale od razu poczułem, że można mierzyć wyżej. 
+Inspiracją do rozpoczęcia projektu były przykłady prostych, ale przemyślanych konstrukcji robotycznych, które można znaleźć w sieci. Na początku zbudowałem ramię MeArm 0.4 korzystając z gotowego projektu, ale od razu poczułem, że można mierzyć wyżej. 
 Niektóre z tych nagrań pokazują, że nawet przy ograniczonym budżecie i dostępnych narzędziach da się zbudować funkcjonalne i dobrze działające ramię robotyczne.
 
 Dwa konkretne materiały, które ogólnie pokazują zasadę działania takiego urządzenia:
