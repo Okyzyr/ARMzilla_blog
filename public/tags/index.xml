@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Fuzzy Logic</title>
-    <link>http://localhost:1313/FuzzyLogic/tags/</link>
+    <link>https://okyzyr.github.io/FuzzyLogic/tags/</link>
     <description>Recent content in Tags on Fuzzy Logic</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>pl</language>
     <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/FuzzyLogic/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://okyzyr.github.io/FuzzyLogic/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Armzilla</title>
-      <link>http://localhost:1313/FuzzyLogic/tags/armzilla/</link>
+      <link>https://okyzyr.github.io/FuzzyLogic/tags/armzilla/</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/FuzzyLogic/tags/armzilla/</guid>
+      <guid>https://okyzyr.github.io/FuzzyLogic/tags/armzilla/</guid>
       <description></description>
     </item>
     <item>
       <title>Fusion360</title>
-      <link>http://localhost:1313/FuzzyLogic/tags/fusion360/</link>
+      <link>https://okyzyr.github.io/FuzzyLogic/tags/fusion360/</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/FuzzyLogic/tags/fusion360/</guid>
+      <guid>https://okyzyr.github.io/FuzzyLogic/tags/fusion360/</guid>
       <description></description>
     </item>
     <item>
       <title>Gt2</title>
-      <link>http://localhost:1313/FuzzyLogic/tags/gt2/</link>
+      <link>https://okyzyr.github.io/FuzzyLogic/tags/gt2/</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/FuzzyLogic/tags/gt2/</guid>
+      <guid>https://okyzyr.github.io/FuzzyLogic/tags/gt2/</guid>
       <description></description>
     </item>
     <item>
       <title>Napęd</title>
-      <link>http://localhost:1313/FuzzyLogic/tags/nap%C4%99d/</link>
+      <link>https://okyzyr.github.io/FuzzyLogic/tags/nap%C4%99d/</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/FuzzyLogic/tags/nap%C4%99d/</guid>
+      <guid>https://okyzyr.github.io/FuzzyLogic/tags/nap%C4%99d/</guid>
       <description></description>
     </item>
     <item>
       <title>Nema17</title>
-      <link>http://localhost:1313/FuzzyLogic/tags/nema17/</link>
+      <link>https://okyzyr.github.io/FuzzyLogic/tags/nema17/</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/FuzzyLogic/tags/nema17/</guid>
+      <guid>https://okyzyr.github.io/FuzzyLogic/tags/nema17/</guid>
       <description></description>
     </item>
     <item>
       <title>Projekt</title>
-      <link>http://localhost:1313/FuzzyLogic/tags/projekt/</link>
+      <link>https://okyzyr.github.io/FuzzyLogic/tags/projekt/</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/FuzzyLogic/tags/projekt/</guid>
+      <guid>https://okyzyr.github.io/FuzzyLogic/tags/projekt/</guid>
       <description></description>
     </item>
     <item>
       <title>Arm</title>
-      <link>http://localhost:1313/FuzzyLogic/tags/arm/</link>
+      <link>https://okyzyr.github.io/FuzzyLogic/tags/arm/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/FuzzyLogic/tags/arm/</guid>
+      <guid>https://okyzyr.github.io/FuzzyLogic/tags/arm/</guid>
       <description></description>
     </item>
     <item>
       <title>Projekty</title>
-      <link>http://localhost:1313/FuzzyLogic/tags/projekty/</link>
+      <link>https://okyzyr.github.io/FuzzyLogic/tags/projekty/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/FuzzyLogic/tags/projekty/</guid>
+      <guid>https://okyzyr.github.io/FuzzyLogic/tags/projekty/</guid>
       <description></description>
     </item>
   </channel>
