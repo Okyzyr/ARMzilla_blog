@@ -1,4 +1,5 @@
-baseURL = "https://okyzyr.github.io/FuzzyLogic/"
+baseURL      = "https://okyzyr.github.io/fuzzylogic/"
+canonifyURLs = true           # wymusza pełne adresy
 title = "Fuzzy Logic"
 theme = "PaperMod"
 languageCode = "pl"

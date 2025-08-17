@@ -2,7 +2,7 @@
 title: "Pierwsze szkice i fundament ramienia"
 date: 2025-07-22
 draft: false
-tags: ["armzilla", "nema17", "fusion360", "projekt", "napęd", "gt2"]
+tags: ["armzilla", "projekt"]
 ---
 
 # Pierwsze szkice i fundament ramienia
