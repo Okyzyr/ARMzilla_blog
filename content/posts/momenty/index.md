@@ -14,8 +14,13 @@ Wyszło jednak, że nie do końca. Na poniższym zrzucie widać wstępne oblicze
 
 W tym miejscu wymieniłem silnik z NEMA17 (0,42 Nm) na **NEMA23 57HS76** (2 Nm) z przekładnią 1:5. Rozważam jeszcze wariant z modelem **57HS52** – ostateczną decyzję podejmę, kiedy będę znał dokładną wagę ramienia po zaprojektowaniu wszystkich segmentów.
 
-Przy okazji zrobiłem prosty kalkulator: [ARMzilla Kalkulator](https://okyzyr.github.io/ARMzilla/), dzięki któremu mogę szybko przeliczyć momenty jeszcze raz, kiedy tylko pojawią się nowe dane o masie czy długościach elementów.
+Przy okazji zrobiłem prosty kalkulator: 
 
-![js](js.png)
+Kalkulator wyglada tak jak na zdjęciu niżej. Mzna poruszać segmentami przez chwytanie przegubów:
+![js](js_kalk.png)
+
+[ARMzilla Kalkulator](https://okyzyr.github.io/ARMzilla/) Dzięki niemu mogę szybko przeliczyć momenty jeszcze raz, kiedy tylko pojawią się nowe dane o masie czy długościach elementów.
+
+
 
 
