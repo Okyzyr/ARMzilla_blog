@@ -2,25 +2,25 @@
 title: "Obliczenia momentu dla ramienia"
 date: 2025-08-01
 draft: false
+tags: ["armzilla", "projekt"]
 ---
 
 W kolejnym etapie zacząłem zastanawiać się nad tym, z jaką siłą będą musiały mierzyć się poszczególne przeguby ramienia.
 
-Pierwsze szkice podstawy zupełnie pomijały ten temat. Zakładałem, że silnik **NEMA17** (0,42 Nm), wspomagany przekładnią z kół GT2 (1:3) i paskiem 6 mm, wystarczy w każdym przegubie – niezależnie od tego, czy miałby tylko obracać, czy także podnosić segmenty. Podstawa została tak właśnie zaprojektowana. Dopiero później, przed przejściem do kolejnych elementów, postanowiłem policzyć, czy rzeczywiście ten silnik da radę. Początkowo myślałem, że to tylko formalność.
+Początkowo zakładałem, że wszystkie elementy będą napędzane za pomocą silników **NEMA17** o momencie 0,42 Nm. Przekładnie miały mieć przełożenie 1:3 (koła 20T i 60T, pasek 6 mm), a podstawę zaprojektowałem właśnie pod te wymiary. Wydawało się, że to wystarczy – niezależnie od tego, czy silnik miałby tylko obracać, czy także podnosić segmenty.
 
-Wyszło jednak, że nie do końca. Na poniższym zrzucie widać wstępne obliczenia – zarówno dla każdego z przegubów, jak i dla całego ramienia, gdzie najbardziej obciążony silnik musi unieść praktycznie całą konstrukcję:
+Zaczynając projektowanie pierwszego segmentu, pojawiły się jednak wątpliwości. Po pierwsze: **wytrzymałość paska** przy planowanym obciążeniu ~2 kg. Pomyślałem, że przy takim ciężarze pasek 6 mm może się z czasem rozciągać, co wpłynie na precyzję ruchów. Wstępnie rozważałem zmianę na koła pasowe 10 mm i pasek 9 mm.
+
+Kolejny problem był poważniejszy: **czy ten silnik w ogóle da radę podnieść takie ramię**. Zrobiłem więc proste obliczenia momentów – zarówno dla pojedynczych przegubów, jak i całej konstrukcji. Okazało się, że najbardziej obciążony silnik musi unieść praktycznie całe ramię:
 
 ![kalkulator1](kalkulator1.png)
 
-W tym miejscu wymieniłem silnik z NEMA17 (0,42 Nm) na **NEMA23 57HS76** (2 Nm) z przekładnią 1:5. Rozważam jeszcze wariant z modelem **57HS52** – ostateczną decyzję podejmę, kiedy będę znał dokładną wagę ramienia po zaprojektowaniu wszystkich segmentów.
+Wyniki jednoznacznie wskazały, że NEMA17 to za mało. Wymieniłem więc silnik na **NEMA23 57HS76** (2 Nm) z przekładnią 1:5. Rozważam jeszcze wariant z **57HS52** – ostateczną decyzję podejmę, gdy dokładnie oszacuję wagę gotowego ramienia.
 
-Przy okazji zrobiłem prosty kalkulator: 
+Przy okazji przygotowałem prosty kalkulator:
 
-Kalkulator wyglada tak jak na zdjęciu niżej. Mzna poruszać segmentami przez chwytanie przegubów:
 ![js](js_kalk.png)
 
-[ARMzilla Kalkulator](https://okyzyr.github.io/ARMzilla/) Dzięki niemu mogę szybko przeliczyć momenty jeszcze raz, kiedy tylko pojawią się nowe dane o masie czy długościach elementów.
+Dzięki niemu mogę szybko przeliczać momenty, kiedy tylko zmienią się dane – np. długość lub masa segmentów.
 
-
-
-
+🔗 [ARMzilla Kalkulator](https://okyzyr.github.io/ARMzilla/)
