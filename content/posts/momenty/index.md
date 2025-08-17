@@ -17,3 +17,5 @@ W tym miejscu wymieniłem silnik z NEMA17 (0,42 Nm) na **NEMA23 57HS76** (2 Nm) 
 Przy okazji zrobiłem prosty kalkulator: [ARMzilla Kalkulator](https://okyzyr.github.io/ARMzilla/), dzięki któremu mogę szybko przeliczyć momenty jeszcze raz, kiedy tylko pojawią się nowe dane o masie czy długościach elementów.
 
 ![js](js.png)
+
+
