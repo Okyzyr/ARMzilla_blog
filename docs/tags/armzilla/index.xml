@@ -6,8 +6,19 @@
     <description>Recent content in Armzilla on Fuzzy Logic</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://okyzyr.github.io/fuzzylogic/tags/armzilla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moment siły - liczenie</title>
+      <link>https://okyzyr.github.io/fuzzylogic/posts/moment_sily/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://okyzyr.github.io/fuzzylogic/posts/moment_sily/</guid>
+      <description>&lt;p&gt;Początkowo zakładałem, że wszystkie elementy będą napędzane za pomocą silników nema 17 o momencie 0,42 Nm.
+Przekładnie zaplanowałem na 1:3 za pomocą kół pasowych 20T i 60T z paskiem 6mm, sterownik TCM2209. Podstawa była zaprojektowana właśnie pod ten rozmiar kół i szerokość paska.&lt;/p&gt;
+&lt;p&gt;Zaczynająć projektowanie pierwszego segmentu ramienia zastanawiałem się nad wytrzmałością paska jeśli miałby podnieść wstępnie zaplanowane 2kg. Pomyślałem, że przy takim obciążeniu pasek może zacząć się wyciągać z czasem co będzie powodowało, że ramię nie będzie poruszać się precyzyjnie.
+Pierwsza myśl to zastosowanie kół pasowych o wysokości 10mm i pasek o szerokości 9mm. W dalszym kroku, po założeniu już jaka może być waga ramienia plus to jak długie sa segmenty ramienia, zacząłem zastanawiać się nad tym, czy ten silnik jest w stanie w ogóle podnieść takie ramię.
+Zacząłem&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Pierwsze szkice i fundament ramienia</title>
       <link>https://okyzyr.github.io/fuzzylogic/posts/podstawa/</link>
